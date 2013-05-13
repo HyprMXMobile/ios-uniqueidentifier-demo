@@ -1,0 +1,160 @@
+TTestReservedNames
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/08/3dp9523x7ts12r01d561xk4c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestReservedNames-Prefix-bgikaolopvkofuckhzswkgyxuelt/TestReservedNames-Prefix.pch.pth TestReservedNames/TestReservedNames-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/Objects-normal/i386/TestReservedNames.o /Users/jeremy/twotoasters/TestReservedNames/TestReservedNames/TestReservedNames.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/jeremy/twotoasters/TestReservedNames/build/Debug-iphonesimulator/libTestReservedNames.a normal i386
+cPBXCp TestReservedNames/TestReservedNames.h build/Debug-iphonesimulator/include/TestReservedNames/TestReservedNames.h
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/SenTestingKit
+c00000000501BFB0F0000000000030E60
+t1344011023
+s200288
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000501BF1020000000000000110
+t1344008450
+s272
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000501BFDBF0000000000228FF0
+t1344011711
+s2265072
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000501BFDBF000000000009C1F0
+t1344011711
+s639472
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000501BFDD000000000003DCEF0
+t1344011728
+s4050672
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000501BFDD000000000000015F7
+t1344011728
+s5623
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c00000000501BFDDD00000000000F19C0
+t1344011741
+s989632
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c00000000501BFDE100000000002BFB10
+t1344011745
+s2882320
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c00000000501BFDE70000000000113240
+t1344011751
+s1126976
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000501BFDF2000000000006CC50
+t1344011762
+s445520
+
+N/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000501BFDF60000000000AAE680
+t1344011766
+s11200128
+
+N/Users/jeremy/twotoasters/TestReservedNames/../HyprMX-iOS-Framework/Code/HyprMX/HyprMX/Libraries/GHUnit/GHUnitIOS.framework/GHUnitIOS
+c00000000501FCB2C00000000002DC424
+t1344260908
+s2999332
+
+N/Users/jeremy/twotoasters/TestReservedNames/TestReservedNames/TestReservedNames-Prefix.pch
+c0000000051911F2A00000000000000AF
+t1368465194
+s175
+i<Foundation/Foundation.h>
+
+N/Users/jeremy/twotoasters/TestReservedNames/TestReservedNames/TestReservedNames.h
+c0000000051911F2A00000000000000EF
+t1368465194
+s239
+
+N/Users/jeremy/twotoasters/TestReservedNames/TestReservedNames/TestReservedNames.m
+c00000000519130250000000000000131
+t1368469541
+s305
+
+N/Users/jeremy/twotoasters/TestReservedNames/build/Debug-iphonesimulator/include/TestReservedNames/TestReservedNames.h
+t1368465823
+s239
+
+N/Users/jeremy/twotoasters/TestReservedNames/build/Debug-iphonesimulator/libTestReservedNames.a
+t2
+s0
+
+N/Users/jeremy/twotoasters/TestReservedNames/build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/Objects-normal/i386/TestReservedNames.LinkFileList
+c000000005191302E00000000000000A0
+t1368469550
+s160
+
+N/Users/jeremy/twotoasters/TestReservedNames/build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/Objects-normal/i386/TestReservedNames.o
+t2
+s0
+
+N/var/folders/08/3dp9523x7ts12r01d561xk4c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestReservedNames-Prefix-bgikaolopvkofuckhzswkgyxuelt/TestReservedNames-Prefix.pch.pth
+t2
+s0
+
+CBuild AST from /Users/jeremy/twotoasters/TestReservedNames/TestReservedNames/TestReservedNames.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies081d9cae6741b741^4aeb9fae6741b741^---0#1#0#--18"Check dependencies36"7588B0C1-AAF2-4E98-8D3E-3E5E9266FC36-
+
+CCompileC build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/Objects-normal/i386/TestReservedNames.o /Users/jeremy/twotoasters/TestReservedNames/TestReservedNames/TestReservedNames.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390162350.778931
+e390162350.854835
+r1
+xCompileC
+xbuild/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/Objects-normal/i386/TestReservedNames.o
+x/Users/jeremy/twotoasters/TestReservedNames/TestReservedNames/TestReservedNames.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/jeremy/twotoasters/TestReservedNames/TestReservedNames/TestReservedNames.m:15:15: warning: unused variable 'device' [-Wunused-variable]
+o    UIDevice* device = nil;
+o              ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/jeremy/twotoasters/TestReservedNames/TestReservedNames/TestReservedNames.mc685c7ae6741b741^34d6daae6741b741^-208"/Users/jeremy/twotoasters/TestReservedNames/TestReservedNames/TestReservedNames.m:15:15: warning: unused variable 'device' [-Wunused-variable]    UIDevice* device = nil;              ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@24"Unused variable 'device'-390162350#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@97"file://localhost/Users/jeremy/twotoasters/TestReservedNames/TestReservedNames/TestReservedNames.m0000000000000000^14#14#14#14#283#0#19"Unused Entity Issue--0#0#0#-19%DVTDocumentLocation4@97"file://localhost/Users/jeremy/twotoasters/TestReservedNames/TestReservedNames/TestReservedNames.m0000000000000000^3856"CompileC build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/Objects-normal/i386/TestReservedNames.o TestReservedNames/TestReservedNames.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jeremy/twotoasters/TestReservedNames    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/jeremy/twotoasters/TestReservedNames/build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/TestReservedNames-generated-files.hmap -I/Users/jeremy/twotoasters/TestReservedNames/build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/TestReservedNames-own-target-headers.hmap -I/Users/jeremy/twotoasters/TestReservedNames/build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/TestReservedNames-all-target-headers.hmap -iquote /Users/jeremy/twotoasters/TestReservedNames/build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/TestReservedNames-project-headers.hmap -I/Users/jeremy/twotoasters/TestReservedNames/build/Debug-iphonesimulator/include -I/Users/jeremy/twotoasters/TestReservedNames -I/Users/jeremy/twotoasters/TestReservedNames/build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/DerivedSources/i386 -I/Users/jeremy/twotoasters/TestReservedNames/build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/DerivedSources -F/Users/jeremy/twotoasters/TestReservedNames/build/Debug-iphonesimulator -F/Applications/Xcode45-DP4.app/Contents/Developer/Library/Frameworks -F/Users/jeremy/twotoasters/TestReservedNames/../HyprMX-iOS-Framework/Code/HyprMX/HyprMX/Libraries/GHUnit -include /var/folders/08/3dp9523x7ts12r01d561xk4c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestReservedNames-Prefix-bgikaolopvkofuckhzswkgyxuelt/TestReservedNames-Prefix.pch -MMD -MT dependencies -MF /Users/jeremy/twotoasters/TestReservedNames/build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/Objects-normal/i386/TestReservedNames.d --serialize-diagnostics /Users/jeremy/twotoasters/TestReservedNames/build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/Objects-normal/i386/TestReservedNames.dia -c /Users/jeremy/twotoasters/TestReservedNames/TestReservedNames/TestReservedNames.m -o /Users/jeremy/twotoasters/TestReservedNames/build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/Objects-normal/i386/TestReservedNames.o36"4A15A9B2-EF6A-4027-809C-18B298144E42-
+
+CLibtool /Users/jeremy/twotoasters/TestReservedNames/build/Debug-iphonesimulator/libTestReservedNames.a normal i386
+s390162350.862317
+e390162350.870215
+r1
+xLibtool
+x/Users/jeremy/twotoasters/TestReservedNames/build/Debug-iphonesimulator/libTestReservedNames.a
+xnormal
+xi386
+o/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Libtool build/Debug-iphonesimulator/libTestReservedNames.a normal i386aed7dcae6741b741^cec6deae6741b741^-165"/Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1473"Libtool build/Debug-iphonesimulator/libTestReservedNames.a normal i386    cd /Users/jeremy/twotoasters/TestReservedNames    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/jeremy/twotoasters/TestReservedNames/build/Debug-iphonesimulator -L/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/lib/system -filelist /Users/jeremy/twotoasters/TestReservedNames/build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/Objects-normal/i386/TestReservedNames.LinkFileList -ObjC -framework MessageUI -framework CoreLocation -framework SystemConfiguration -framework Foundation -framework UIKit -framework MapKit -framework GHUnitIOS -framework MessageUI -framework MediaPlayer -framework CoreLocation -framework SystemConfiguration -framework UIKit -framework Foundation -framework SenTestingKit -framework CoreGraphics -o /Users/jeremy/twotoasters/TestReservedNames/build/Debug-iphonesimulator/libTestReservedNames.a36"FB29C9D1-F24F-4323-83A9-DC71C9853BE0-
+
+CPBXCp TestReservedNames/TestReservedNames.h build/Debug-iphonesimulator/include/TestReservedNames/TestReservedNames.h
+r0
+
+CProcessPCH /Users/jeremy/Library/Developer/Xcode/DerivedData/TestReservedNames-foxgqddhdiwkwpdocntdmbwbyjmi/Index/PrecompiledHeaders/TestReservedNames-Prefix-fbcbzotghtijrefiabzrzgirdtgh_ast/TestReservedNames-Prefix.pch.pth TestReservedNames/TestReservedNames-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/08/3dp9523x7ts12r01d561xk4c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestReservedNames-Prefix-bgikaolopvkofuckhzswkgyxuelt/TestReservedNames-Prefix.pch.pth TestReservedNames/TestReservedNames-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390162350.628184
+e390162350.771583
+r1
+xProcessPCH
+x/var/folders/08/3dp9523x7ts12r01d561xk4c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestReservedNames-Prefix-bgikaolopvkofuckhzswkgyxuelt/TestReservedNames-Prefix.pch.pth
+xTestReservedNames/TestReservedNames-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Precompile TestReservedNames/TestReservedNames-Prefix.pch6ceaa0ae6741b741^0589c5ae6741b741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/jeremy/twotoasters/TestReservedNames/TestReservedNames/TestReservedNames-Prefix.pch0000000000000000^3821"ProcessPCH /var/folders/08/3dp9523x7ts12r01d561xk4c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestReservedNames-Prefix-bgikaolopvkofuckhzswkgyxuelt/TestReservedNames-Prefix.pch.pth TestReservedNames/TestReservedNames-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jeremy/twotoasters/TestReservedNames    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode45-DP4.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode45-DP4.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode45-DP4.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/jeremy/twotoasters/TestReservedNames/build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/TestReservedNames-generated-files.hmap -I/Users/jeremy/twotoasters/TestReservedNames/build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/TestReservedNames-own-target-headers.hmap -I/Users/jeremy/twotoasters/TestReservedNames/build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/TestReservedNames-all-target-headers.hmap -iquote /Users/jeremy/twotoasters/TestReservedNames/build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/TestReservedNames-project-headers.hmap -I/Users/jeremy/twotoasters/TestReservedNames/build/Debug-iphonesimulator/include -I/Users/jeremy/twotoasters/TestReservedNames -I/Users/jeremy/twotoasters/TestReservedNames/build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/DerivedSources/i386 -I/Users/jeremy/twotoasters/TestReservedNames/build/TestReservedNames.build/Debug-iphonesimulator/TestReservedNames.build/DerivedSources -F/Users/jeremy/twotoasters/TestReservedNames/build/Debug-iphonesimulator -F/Applications/Xcode45-DP4.app/Contents/Developer/Library/Frameworks -F/Users/jeremy/twotoasters/TestReservedNames/../HyprMX-iOS-Framework/Code/HyprMX/HyprMX/Libraries/GHUnit --serialize-diagnostics /var/folders/08/3dp9523x7ts12r01d561xk4c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestReservedNames-Prefix-bgikaolopvkofuckhzswkgyxuelt/TestReservedNames-Prefix.pch.dia -c /Users/jeremy/twotoasters/TestReservedNames/TestReservedNames/TestReservedNames-Prefix.pch -o /var/folders/08/3dp9523x7ts12r01d561xk4c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestReservedNames-Prefix-bgikaolopvkofuckhzswkgyxuelt/TestReservedNames-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/08/3dp9523x7ts12r01d561xk4c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TestReservedNames-Prefix-bgikaolopvkofuckhzswkgyxuelt/TestReservedNames-Prefix.pch.d36"CEC4BAFD-CE6A-4668-B8A3-D57F6A91B95A-
+

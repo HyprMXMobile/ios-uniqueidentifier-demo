@@ -7,7 +7,12 @@
 //
 
 #import "TestReservedNames.h"
+#import <UIKit/UIKit.h>
 
 @implementation TestReservedNames
+
+- (void)someMethod {
+    UIDevice* device = nil;
+}
 
 @end
